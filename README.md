@@ -15,26 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 👋 Hello, I'm Freda!
 
-### 👋 Hello, I'm [你的名字]!
-🚀 [你的职业/角色] | 💼 [当前公司/组织] | 🌍 [城市/地区]
+For whatever reason that brought you here, welcome to my github profile. I hope you're having a decent day.
+- ❤️ I'm a front-end developer who enjoys writing in TypeScript and developing interesting open-source projects.
+- 🌱 I’m striving to become a better developer every single day.
+- 🥘 I’m cooking up some content and building a new portfolio.
 
-#### 🔧 技术栈
-![编程语言图标](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![框架图标](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![工具图标](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 🛠 Languages and tools: 
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
+<code><img height="20" alt="vite" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vite/vite.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" alt="rails" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code> 
 
-#### 📈 我的 GitHub 数据
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FredaFei&show_icons=true&theme=radical)
-
-#### 💬 联系方式
+#### 💬 Contact
 - 📧 Email: [fredahanhan@gmail.com](mailto:fredahanhan@gmail.com)
-- 🌐 个人网站: [your-portfolio.com](https://your-portfolio.com)
+<!-- - 🌐 portfolio: [your-portfolio.com](https://your-portfolio.com) -->
 
 <!-- 添加项目卡片 -->
-### 🚧 我的项目
-[![Tomato's daily cost - Frontend ](https://github-readme-stats.vercel.app/api/pin/?username=FredaFei&repo=peach&theme=radical)](https://github.com/FredaFei/peach)
-[![Tomato's daily cost - Backend](https://github-readme-stats.vercel.app/api/pin/?username=FredaFei&repo=tomato-ruby&theme=radical)](https://github.com/FredaFei/tomato-ruby)
-
+<!-- 
+### 🚧 Recent Projects
+[![astro-blog](https://github-readme-stats.vercel.app/api/pin/?username=FredaFei&repo=astro-blog&theme=radical)](https://github.com/FredaFei/astro-blog)
+[![peach ](https://github-readme-stats.vercel.app/api/pin/?username=FredaFei&repo=peach&theme=radical)](https://github.com/FredaFei/peach)
+[![tomato-ruby](https://github-readme-stats.vercel.app/api/pin/?username=FredaFei&repo=tomato-ruby&theme=radical)](https://github.com/FredaFei/tomato-ruby)
+-->
 <!-- 添加活动日历 -->
 <!-- ![GitHub 活动日历](https://github-readme-activity-graph.vercel.app/graph?username=FredaFei&theme=react-dark) -->
