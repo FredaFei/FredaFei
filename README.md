@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **FredaFei/FredaFei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hello, I'm Freda!
-
+## Hi there 👋 I'm Freda!
 For whatever reason that brought you here, welcome to my github profile. I hope you're having a decent day.
 - ❤️ I'm a front-end developer who enjoys writing in TypeScript and developing interesting open-source projects.
 - 🌱 I’m striving to become a better developer every single day.
