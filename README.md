@@ -36,12 +36,14 @@ For whatever reason that brought you here, welcome to my github profile. I hope 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png"/>
 
 #### 💬 Contact
+
 - 📧 Email: [fredahanhan@gmail.com](mailto:fredahanhan@gmail.com)
 <!-- - 🌐 portfolio: [your-portfolio.com](https://your-portfolio.com) -->
 
 <!-- 添加项目卡片 -->
 <!-- 
 ### 🚧 Recent Projects
+
 [![astro-blog](https://github-readme-stats.vercel.app/api/pin/?username=FredaFei&repo=astro-blog&theme=radical)](https://github.com/FredaFei/astro-blog)
 [![peach ](https://github-readme-stats.vercel.app/api/pin/?username=FredaFei&repo=peach&theme=radical)](https://github.com/FredaFei/peach)
 [![tomato-ruby](https://github-readme-stats.vercel.app/api/pin/?username=FredaFei&repo=tomato-ruby&theme=radical)](https://github.com/FredaFei/tomato-ruby)
