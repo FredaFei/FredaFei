@@ -35,7 +35,9 @@ For whatever reason that brought you here, welcome to my github profile. I hope 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png"/>
 
-#### 💬 Contact
+<br/>
+
+### 💬 Contact
 
 - 📧 Email: [fredahanhan@gmail.com](mailto:fredahanhan@gmail.com)
 <!-- - 🌐 portfolio: [your-portfolio.com](https://your-portfolio.com) -->
